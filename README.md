@@ -8,8 +8,13 @@ Organizations managing extensive procurement operations often face challenges in
 This project addresses these challenges by developing an intelligent chat assistant that automates the retrieval of procurement insights. The assistant allows users to ask procurement-related questions and receive immediate, data-driven responses, empowering procurement teams to make faster and more informed decisions.
 
 ### Objective
-To create a prototype chat assistant capable of answering queries related to procurement data. This includes:
+To create a prototype assistant capable of answering queries related to procurement data. This includes:
 - Total number of orders within specified periods.
 - Identifying the quarter with the highest spending.
 - Analyzing frequently ordered line items.
 - Answering other relevant procurement-related inquiries.
+
+
+## Project Overview
+The Intelligent Procurement Assistant is a virtual assistant designed to streamline data-driven decision-making within procurement processes. This assistant allows procurement teams to interact with procurement data directly, answering questions about order trends, spending patterns, and frequently ordered items. By automating these insights, the assistant saves time and reduces the need for manual data analysis, empowering users to make faster and more informed purchasing decisions. 
+
