@@ -18,3 +18,12 @@ To create a prototype assistant capable of answering queries related to procurem
 ## Project Overview
 The Intelligent Procurement Assistant is a virtual assistant designed to streamline data-driven decision-making within procurement processes. This assistant allows procurement teams to interact with procurement data directly, answering questions about order trends, spending patterns, and frequently ordered items. By automating these insights, the assistant saves time and reduces the need for manual data analysis, empowering users to make faster and more informed purchasing decisions. 
 
+## Dataset Definition
+The dataset used in this project contains detailed procurement data, providing insights into purchasing trends, order volumes, and spending patterns. Key data points include:
+
+- **Order Details**: Information on individual orders, including order numbers, dates, and amounts spent.
+- **Time Periods**: Dates and timestamps that enable analysis by month, quarter, or year.
+- **Items and Categories**: Details about the items purchased, including item descriptions, categories, and frequency of orders.
+- **Spending Information**: Data on total spending per order, which allows for tracking of high-spending periods and analysis of spending trends over time.
+
+This structured dataset is essential for powering the Intelligent Procurement Assistant you can find it through this link: https://www.kaggle.com/datasets/sohier/large-purchases-by-the-state-of-ca
