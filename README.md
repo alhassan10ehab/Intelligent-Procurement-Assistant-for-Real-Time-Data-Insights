@@ -27,3 +27,13 @@ The dataset used in this project contains detailed procurement data, providing i
 - **Spending Information**: Data on total spending per order, which allows for tracking of high-spending periods and analysis of spending trends over time.
 
 This structured dataset is essential for powering the Intelligent Procurement Assistant you can find it through this link: https://www.kaggle.com/datasets/sohier/large-purchases-by-the-state-of-ca
+
+## Technologies
+
+- **Python 3.12**: The core programming language used for implementing the assistant's functionality, data processing, and handling user queries.
+- **Docker and Docker Compose**: Used for containerization, ensuring that the project runs consistently across different environments by packaging dependencies and configurations together.
+- **pgvector**: A PostgreSQL extension employed for efficient full-text search and similarity search, enabling quick retrieval of relevant information from the procurement data.
+- **Flask**: A lightweight web framework used to create a user-friendly API that facilitates interaction between users and the assistant.
+- **multilingual-e5-small**: A model used to generate high-quality embeddings, enabling semantic search across the dataset for more accurate query responses.
+- **Qwen/Qwen2.5-1.5B (via Hugging Face)**: A large language model used for generating answers to user queries, adding conversational intelligence to the assistant.
+
